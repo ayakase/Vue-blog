@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 78826,
+            "url": "https://viblo.asia/u/rockman88v",
+            "avatar": "3a181c0a-3ec1-4368-80c3-47ad6b64922a.jpeg",
+            "name": "Trịnh Quốc Việt",
+            "username": "rockman88v",
+            "followers_count": 0,
+            "reputation": 0,
+            "posts_count": 0,
+            "banned_at": null,
+            "level_partner": null
+        },
+        {
+            "id": 87504,
+            "url": "https://viblo.asia/u/youngcoder",
+            "avatar": "aef7aa68-4f30-4c78-9ff4-f3e901131dfe.jpeg",
+            "name": "Hưng Nguyễn Viết",
+            "username": "youngcoder",
+            "followers_count": 0,
+            "reputation": 0,
+            "posts_count": 0,
+            "banned_at": null,
+            "level_partner": null
+        }
+    ]
+}
